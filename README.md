@@ -1,4 +1,4 @@
-# 课程代码 - 课程名
+# COMP3054 - 网络与系统安全
 
 <!--
 1. 通过 [Shields.io](https://shields.io/) 生成如下的徽章，标注课程的基本信息。
@@ -8,25 +8,35 @@
 5. 可以在 GitHub 页面的 About/Topics 中为课程添加话题名称。
 -->
 
-![考试课](https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red)
-![考查课](https://img.shields.io/badge/%E8%80%83%E6%9F%A5%E8%AF%BE-green)
-![学分](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-4-moccasin)
-![跨专业选修课](https://img.shields.io/badge/%E8%B7%A8%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE%E8%AF%BE-lightskyblue)
+![限选课](https://img.shields.io/badge/%E9%99%90%E9%80%89%E8%AF%BE-red)
+![学分](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-3-moccasin)
 ![实验](https://img.shields.io/badge/%E5%AE%9E%E9%AA%8C-purple)
-![文理通识](https://img.shields.io/badge/%E6%96%87%E7%90%86%E9%80%9A%E8%AF%86-orange)
 
 ![成绩构成](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)
-![作业40%](https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-40%25-wheat)
+![作业10%](https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-10%25-wheat)
+![实验30%](https://img.shields.io/badge/%E5%AE%9E%E9%AA%8C-30%25-wheat)
 ![期末考试60%](https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-60%25-wheat)
 
 
 ## 授课教师
 
-- （教师名）
-  - 授课风格：
-  - 听课建议：
-  - ……
+- ljc：
+
+  来自香港，据说粤语讲得比英语好，英语讲得比普通话好，自己体会……
 
 ## 关于考试
 
-## 学习建议
+全英文+闭卷+占比60%，听起来非常吓人。
+  实际上，试卷分数构成是判断题15×2分，选择题25×2分，简答题2×10分，考得相当基础。
+  
+  重点是，选择题中有16道来自雨课堂课堂测试原题，我们假设你背下来其中15道题拿下30分，剩下15道判断题10道选择题，随便选的数学期望都有20分了，简答题再扯两句，轻松拿到50+的考试分数，低空飘过……
+
+## 关于实验
+
+  这个倒是中文上课+中文指导书，主要是配置验证实验，基本不需要写代码，就是课时数比较多。
+  
+  不过有大量的环境配置工作，总会有一些奇奇怪怪的bug出现
+
+## 关于作业
+
+  两次全英文作业，有相当的难度，只能说善用搜索引擎吧
