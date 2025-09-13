@@ -17,6 +17,7 @@
 ![实验30%](https://img.shields.io/badge/%E5%AE%9E%E9%AA%8C-30%25-wheat)
 ![期末考试60%](https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-60%25-wheat)
 
+## 教材和参考书
 
 ## 授课教师
 
