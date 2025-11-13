@@ -1,0 +1,94 @@
+ID: "COMP3054"
+SimilarID: []
+Name: "网络与系统安全"
+CourseProperty:
+  - Year: "2022_2023"
+    Major:
+      - Name: ["计算机"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大二"
+        Semester: "春"
+    CourseType: "限选"
+    CourseID: "COMP3054"
+    CourseName: "网络与系统安全"
+    Credit: "3.0"
+    CourseHour: "56.0"
+    GPAInfluence: "GPA"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: 10
+      - Name: "实验"
+        Percentage: 30
+      - Name: "期末考试"
+        Percentage: 60
+    CourseHourComposition:
+      - Name: "授课"
+        Hour: ""
+      - Name: "实验"
+        Hour: ""
+  - Year: "2023_2024"
+    Major:
+      - Name: ["计算机", "智能强基班"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大二"
+        Semester: "春"
+    CourseType: "限选"
+    CourseID: "COMP3054"
+    CourseName: "网络与系统安全"
+    Credit: "3.0"
+    CourseHour: "56.0"
+    GPAInfluence: "GPA"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: 10
+      - Name: "实验"
+        Percentage: 30
+      - Name: "期末考试"
+        Percentage: 60
+    CourseHourComposition:
+      - Name: "授课"
+        Hour: ""
+      - Name: "实验"
+        Hour: ""
+  - Year: "2024_2025"
+    Major:
+      - Name: ["计算机", "计算机（第二学士学位）"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大二"
+        Semester: "春"
+    CourseType: "限选"
+    CourseID: "COMP3054"
+    CourseName: "网络与系统安全"
+    Credit: "3.0"
+    CourseHour: "56.0"
+    GPAInfluence: "GPA"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: 10
+      - Name: "实验"
+        Percentage: 30
+      - Name: "期末考试"
+        Percentage: 60
+    CourseHourComposition:
+      - Name: "授课"
+        Hour: ""
+      - Name: "实验"
+        Hour: ""
