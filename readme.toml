@@ -1,15 +1,15 @@
 course_name = "网络与系统安全"
-repo_type = "normal"
 course_code = "COMP3054"
-
+repo_type = "normal"
 description = "成绩构成：作业10%，实验30%，期末考试60%。"
 
-[[lecturers]]
+[lecturers]
+
+[[lecturers.items]]
 name = "梁家昌"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = "来自香港，据说粤语讲得比英语好，英语讲得比普通话好，自己体会……"
-
 
 [[sections]]
 title = "关于考试"
@@ -22,7 +22,6 @@ content = """
 重点是，选择题中有16道来自雨课堂课堂测试原题，我们假设你背下来其中15道题拿下30分，剩下15道判断题10道选择题，随便选的数学期望都有20分了，简答题再扯两句，轻松拿到50+的考试分数，低空飘过……
 """
 
-
 [[sections]]
 title = "关于实验"
 
@@ -32,7 +31,6 @@ content = """
 
 不过有大量的环境配置工作，总会有一些奇奇怪怪的bug出现
 """
-
 
 [[sections]]
 title = "作业"
