@@ -1,4 +1,0 @@
-category: 限选
-module: 网络与信息安全方向
-semester: 第三学年春季
-name: 网络与系统安全
