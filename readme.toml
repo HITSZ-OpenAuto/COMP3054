@@ -1,12 +1,12 @@
 course_name = "网络与系统安全"
 course_code = "COMP3054"
 repo_type = "normal"
-description = "成绩构成：作业10%，实验30%，期末考试60%。"
+description = ""
 
 [lecturers]
 
 [[lecturers.items]]
-name = "梁家昌"
+name = "ljc"
 
 [[lecturers.items.reviews]]
 content = "来自香港，据说粤语讲得比英语好，英语讲得比普通话好，自己体会……"
@@ -33,7 +33,7 @@ content = """
 """
 
 [[sections]]
-title = "作业"
+title = "关于作业"
 
 [[sections.items]]
 content = "两次全英文作业，有相当的难度，只能说善用搜索引擎吧"
