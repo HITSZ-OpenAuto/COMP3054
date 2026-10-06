@@ -7,13 +7,11 @@
 ![实验30%](https://img.shields.io/badge/实验-30%25-wheat)
 ![期末考试60%](https://img.shields.io/badge/期末考试-60%25-wheat)
 
-成绩构成：作业10%，实验30%，期末考试60%。
-
 ## 授课教师
 
 <!-- TOML-LECTURERS: part="items" -->
-- 梁家昌
-  <!-- TOML-ITEM: id="review-梁家昌-1" -->
+- ljc
+  <!-- TOML-ITEM: id="review-ljc-1" -->
   - 来自香港，据说粤语讲得比英语好，英语讲得比普通话好，自己体会……
 
 ## 关于考试
@@ -35,9 +33,9 @@
 
 不过有大量的环境配置工作，总会有一些奇奇怪怪的bug出现
 
-## 作业
-<!-- TOML-SECTION: title="作业" -->
+## 关于作业
+<!-- TOML-SECTION: title="关于作业" -->
 
-<!-- TOML-ITEM: id="item-作业-1" -->
+<!-- TOML-ITEM: id="item-关于作业-1" -->
 
 两次全英文作业，有相当的难度，只能说善用搜索引擎吧
