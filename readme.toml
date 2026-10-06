@@ -1,7 +1,6 @@
 course_name = "网络与系统安全"
 course_code = "COMP3054"
 repo_type = "normal"
-description = ""
 
 [lecturers]
 
